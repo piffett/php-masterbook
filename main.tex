@@ -1,0 +1,65 @@
+\documentclass[a4paper,11pt,oneside,openany]{jsbook}
+%
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{verbatim}
+\usepackage{wrapfig}
+\usepackage{ascmac}
+\usepackage{makeidx}
+%
+\makeindex
+%
+\setlength{\textwidth}{\fullwidth}
+\setlength{\textheight}{40\baselineskip}
+\addtolength{\textheight}{\topskip}
+\setlength{\voffset}{-0.55in}
+%
+\newcommand{\diff}{\mathrm{d}}  %微分記号
+\newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
+\newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
+\newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+%
+\title{PHP MasterBook}
+\author{Piffett}
+\date{\today}
+\begin{document}
+%
+%
+\maketitle
+%
+%
+\frontmatter
+%
+\addcontentsline{toc}{chapter}{概要}
+\include{abstract}
+\tableofcontents
+%
+%
+\mainmatter
+%
+\include{chap1}
+\include{chap2}
+%
+%
+\appendix
+%
+\include{appendixA}
+\include{appendixB}
+%
+%
+\chapter*{謝辞}
+\addcontentsline{toc}{chapter}{謝辞}
+
+ありがとーー！
+%
+%
+\include{biblography}
+%
+%
+\newpage
+\printindex
+%
+%
+\end{document}
