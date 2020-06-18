@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.3.26)  29 MAY 2020 10:36
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.3.26)  18 JUN 2020 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -141,10 +141,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (h:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
 
-(h:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(h:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen165
 \Gin@req@width=\dimen166
@@ -280,17 +280,24 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 ]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex)
+ (./abstract.tex
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 23.90964pt on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 36.
+(Font)              scaled to size 23.90964pt on input line 1.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 23.90964pt on input line 1.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 23.90964pt on input line 1.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 5.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 36.
+(Font)              scaled to size 13.83836pt on input line 5.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 5.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 36.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 36.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 36.
+(Font)              scaled to size 13.83836pt on input line 5.
+)
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
 (Font)              Font shape `JT1/mc/bx/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
@@ -307,16 +314,17 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 [1
 
 
-]
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 37.
+
+] (./main.toc
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 37.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 37.
+(Font)              scaled to size 6.72699pt on input line 3.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 3.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 37.
- (./main.toc)
+(Font)              scaled to size 6.72699pt on input line 3.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 4.805pt on input line 3.
+)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -336,20 +344,24 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 1.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 1.
-) [1
+File: ./chap1_fig/LAMP.png Graphic file (type bmp)
+<./chap1_fig/LAMP.png>
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 15.
+[1
 
 
 
-]
+]) [2]
 \openout2 = `chap2.aux'.
 
- (./chap2.tex) [2
+ (./chap2.tex) [3
 
 
 ]
 \openout2 = `appendixA.aux'.
 
- (./appendixA.tex) [3
+ (./appendixA.tex) [4
 
 
 ]
@@ -357,7 +369,7 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 
 
 No file appendixB.tex.
-[4
+[5
 
 
 
@@ -365,19 +377,19 @@ No file appendixB.tex.
 ]
 \openout2 = `biblography.aux'.
 
- (./biblography.tex) [5
+ (./biblography.tex) [6
 
 ]
 No file main.ind.
 (./main.aux (./abstract.aux) (./chap1.aux) (./chap2.aux) (./appendixA.aux)
 (./appendixB.aux) (./biblography.aux)) ) 
 Here is how much of TeX's memory you used:
- 2669 strings out of 481528
- 33066 string characters out of 5929188
- 275090 words of memory out of 5000000
- 18245 multiletter control sequences out of 15000+600000
- 553254 words of font info for 118 fonts, out of 8000000 for 9000
+ 2709 strings out of 481528
+ 33642 string characters out of 5929188
+ 278725 words of memory out of 5000000
+ 18278 multiletter control sequences out of 15000+600000
+ 555252 words of font info for 127 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 33i,8n,31p,215b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,8n,31p,817b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (8 pages, 1792 bytes).
+Output written on main.dvi (9 pages, 11744 bytes).

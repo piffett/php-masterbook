@@ -1,0 +1,27 @@
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.3.26)  29 MAY 2020 11:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**abstract.tex
+(./abstract.tex
+pLaTeX2e <2020-02-02>+3 (based on LaTeX2e <2020-02-02> patch level 5)
+L3 programming layer <2020-02-25>
+! Undefined control sequence.
+l.1 \chapter
+            *{概要}
+? 
+! Emergency stop.
+l.1 \chapter
+            *{概要}
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 481528
+ 311 string characters out of 5929188
+ 237440 words of memory out of 5000000
+ 15771 multiletter control sequences out of 15000+600000
+ 536209 words of font info for 41 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 13i,0n,15p,59b,10s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
