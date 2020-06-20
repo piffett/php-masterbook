@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.3.26)  18 JUN 2020 10:58
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.3.26)  21 JUN 2020 07:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -209,187 +209,52 @@ Package: tascmac 2020/01/15 v2.1 ascmac package (community edition)
 (h:/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-\@indexfile=\write3
-\openout3 = `main.idx'.
+(h:/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count194
+\lst@gtempboxa=\box73
+\lst@token=\toks26
+\lst@length=\count195
+\lst@currlwidth=\dimen177
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen178
+\lst@width=\dimen179
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen180
 
-
-Writing index file main.idx
-(h:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2020-02-23 L3 backend support: dvips
-\l__pdf_internal_box=\box73
-\g__pdf_backend_object_int=\count194
-\l__pdf_backend_content_box=\box74
-\l__pdf_backend_model_box=\box75
-\g__pdf_backend_annotation_int=\count195
-\g__pdf_backend_link_int=\count196
-\g__pdf_backend_link_sf_int=\count197
+(h:/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box74
 )
-(./main.aux (./abstract.aux) (./chap1.aux) (./chap2.aux) (./appendixA.aux)
-(./appendixB.aux) (./biblography.aux))
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 30.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 30.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 30.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 30.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 30.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+(h:/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
 
-(h:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+! LaTeX Error: File `jlisting.sty' not found.
 
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
-(h:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 30.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 30.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 30.
- [1
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.13 \makeindex
+               ^^M
+End of file on the terminal!
 
-
-]
-\openout2 = `abstract.aux'.
-
- (./abstract.tex
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 1.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 1.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 1.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 1.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 5.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 5.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 5.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 5.
-)
-LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 36.
-LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <10> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 36.
-
-[1
-
-
-
-] (./main.toc
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 3.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 3.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 3.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 3.
-)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- [2
-
-
-]
-\openout2 = `chap1.aux'.
-
- (./chap1.tex
-第1章
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 1.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 1.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 1.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 1.
-File: ./chap1_fig/LAMP.png Graphic file (type bmp)
-<./chap1_fig/LAMP.png>
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 15.
-[1
-
-
-
-]) [2]
-\openout2 = `chap2.aux'.
-
- (./chap2.tex) [3
-
-
-]
-\openout2 = `appendixA.aux'.
-
- (./appendixA.tex) [4
-
-
-]
-\openout2 = `appendixB.aux'.
-
-
-No file appendixB.tex.
-[5
-
-
-
-
-]
-\openout2 = `biblography.aux'.
-
- (./biblography.tex) [6
-
-]
-No file main.ind.
-(./main.aux (./abstract.aux) (./chap1.aux) (./chap2.aux) (./appendixA.aux)
-(./appendixB.aux) (./biblography.aux)) ) 
+ 
 Here is how much of TeX's memory you used:
- 2709 strings out of 481528
- 33642 string characters out of 5929188
- 278725 words of memory out of 5000000
- 18278 multiletter control sequences out of 15000+600000
- 555252 words of font info for 127 fonts, out of 8000000 for 9000
+ 3530 strings out of 481528
+ 44696 string characters out of 5929188
+ 288561 words of memory out of 5000000
+ 19187 multiletter control sequences out of 15000+600000
+ 537166 words of font info for 47 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 31i,8n,31p,817b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on main.dvi (9 pages, 11744 bytes).
+ 30i,0n,36p,215b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

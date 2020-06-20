@@ -8,6 +8,7 @@
 \usepackage{wrapfig}
 \usepackage{ascmac}
 \usepackage{makeidx}
+\usepackage{listings, jlisting}
 %
 \makeindex
 %
@@ -20,6 +21,16 @@
 \newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
 \newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
 \newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+%
+\lstset{
+    basicstyle={\ttfamily\small}, %書体の指定
+    frame=tRBl, %フレームの指定
+    framesep=10pt, %フレームと中身（コード）の間隔
+    breaklines=true, %行が長くなった場合の改行
+    linewidth=12cm, %フレームの横幅
+    lineskip=-0.5ex, %行間の調整
+    tabsize=2 %Tabを何文字幅にするかの指定
+}
 %
 \title{PHP MasterBook}
 \author{Piffett}
